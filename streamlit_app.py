@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from brain import advanced_lookup, DIRECT_MATCH_COLUMNS, RELEVANT_SEMANTIC_COLUMNS
+from brain.py import advanced_lookup, DIRECT_MATCH_COLUMNS, RELEVANT_SEMANTIC_COLUMNS
 
 st.set_page_config(page_title="Semantic Matching Lookup", layout="centered")
 
