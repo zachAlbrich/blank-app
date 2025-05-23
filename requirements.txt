@@ -1,5 +1,5 @@
 streamlit
-pandas
 openai
+pandas
 gspread
 oauth2client
